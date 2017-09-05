@@ -1,2 +1,2 @@
 # mycodeschooldssolutions
-# All the solutions of various topics taught in mycodeschool
+### My personal solutions to various topics taught in mycodeschool
