@@ -1,2 +1,2 @@
-# mycodeschooldssolutions
-### My personal solutions to various topics taught in mycodeschool
+# Datastructures
+This repo consists of my personal solutions to various topics of datastructures taught in mycodeschool.
